@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Liyuan BLG</title>
+  
+  <subtitle>BLG new release</subtitle>
+  <link href="/liyuansw/atom.xml" rel="self"/>
+  
+  <link href="https://liyuancccx.github.io/liyuansw/"/>
+  <updated>2019-12-23T02:28:43.923Z</updated>
+  <id>https://liyuancccx.github.io/liyuansw/</id>
+  
+  <author>
+    <name>Liyuan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新博客</title>
+    <link href="https://liyuancccx.github.io/liyuansw/2019/12/23/%E6%96%B0%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://liyuancccx.github.io/liyuansw/2019/12/23/%E6%96%B0%E5%8D%9A%E5%AE%A2/</id>
+    <published>2019-12-23T02:21:38.000Z</published>
+    <updated>2019-12-23T02:28:43.923Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，欢迎～</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，欢迎～&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
